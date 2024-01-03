@@ -1,8 +1,8 @@
-# Storybooks with NextJS and Tailwindcss
+# Storybook with NextJS and Tailwindcss
 
 Following technologies were used in this boilerplate project:
 
-### Storybooks
+### Storybook
 
 Storybook is a frontend workshop for building UI components and pages in isolation.
 
